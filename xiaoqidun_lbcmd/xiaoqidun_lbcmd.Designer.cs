@@ -33,7 +33,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.爱特网络ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.技术社区ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
@@ -53,12 +52,11 @@
             // contextMenuStrip1
             // 
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.爱特网络ToolStripMenuItem,
-            this.技术社区ToolStripMenuItem});
+            this.爱特网络ToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
             this.contextMenuStrip1.ShowImageMargin = false;
-            this.contextMenuStrip1.Size = new System.Drawing.Size(100, 48);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(100, 26);
             // 
             // 爱特网络ToolStripMenuItem
             // 
@@ -66,13 +64,6 @@
             this.爱特网络ToolStripMenuItem.Size = new System.Drawing.Size(99, 22);
             this.爱特网络ToolStripMenuItem.Text = "爱特网络";
             this.爱特网络ToolStripMenuItem.Click += new System.EventHandler(this.爱特网络ToolStripMenuItem_Click);
-            // 
-            // 技术社区ToolStripMenuItem
-            // 
-            this.技术社区ToolStripMenuItem.Name = "技术社区ToolStripMenuItem";
-            this.技术社区ToolStripMenuItem.Size = new System.Drawing.Size(99, 22);
-            this.技术社区ToolStripMenuItem.Text = "技术社区";
-            this.技术社区ToolStripMenuItem.Click += new System.EventHandler(this.技术社区ToolStripMenuItem_Click);
             // 
             // button2
             // 
@@ -121,7 +112,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ToolStripMenuItem 爱特网络ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 技术社区ToolStripMenuItem;
     }
 }
 

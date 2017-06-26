@@ -6,3 +6,11 @@ C:\Users\xiaoqidun\Documents\Visual Studio 2015\Projects\xiaoqidun_lbcmd\xiaoqid
 C:\Users\xiaoqidun\Documents\Visual Studio 2015\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\obj\Debug\xiaoqidun_lbcmd.csproj.GenerateResource.Cache
 C:\Users\xiaoqidun\Documents\Visual Studio 2015\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\obj\Debug\爱特bash右键.exe
 C:\Users\xiaoqidun\Documents\Visual Studio 2015\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\obj\Debug\爱特bash右键.pdb
+C:\Users\xiaoqidun\Documents\Visual Studio 2017\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\bin\Debug\爱特bash右键.exe.config
+C:\Users\xiaoqidun\Documents\Visual Studio 2017\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\bin\Debug\爱特bash右键.exe
+C:\Users\xiaoqidun\Documents\Visual Studio 2017\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\bin\Debug\爱特bash右键.pdb
+C:\Users\xiaoqidun\Documents\Visual Studio 2017\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\obj\Debug\xiaoqidun_lbcmd.Properties.Resources.resources
+C:\Users\xiaoqidun\Documents\Visual Studio 2017\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\obj\Debug\xiaoqidun_lbcmd.xiaoqidun_lbcmd.resources
+C:\Users\xiaoqidun\Documents\Visual Studio 2017\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\obj\Debug\xiaoqidun_lbcmd.csproj.GenerateResource.Cache
+C:\Users\xiaoqidun\Documents\Visual Studio 2017\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\obj\Debug\爱特bash右键.exe
+C:\Users\xiaoqidun\Documents\Visual Studio 2017\Projects\xiaoqidun_lbcmd\xiaoqidun_lbcmd\obj\Debug\爱特bash右键.pdb

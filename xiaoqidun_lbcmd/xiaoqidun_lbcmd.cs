@@ -53,12 +53,7 @@ namespace xiaoqidun_lbcmd
 
         private void 爱特网络ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start("http://aite.me/");
-        }
-
-        private void 技术社区ToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Process.Start("http://webthen.net/");
+            Process.Start("http://aite.xyz/");
         }
     }
 }
