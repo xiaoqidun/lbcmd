@@ -34,7 +34,10 @@ namespace xiaoqidun_lbcmd
             {
                 var key = Registry.ClassesRoot.CreateSubKey(lbcmd);
                 key.SetValue(null, "在此处打开子系统命令窗口");
-                key.SetValue("icon", lbcmd_icon);
+                if (File.Exists(lbcmd_icon))
+                {
+                    key.SetValue("icon", lbcmd_icon);
+                }
                 key.Close();
                 var key_command = Registry.ClassesRoot.CreateSubKey(lbcmd + @"\command");
                 key_command.SetValue(null, bash);
